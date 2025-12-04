@@ -123,7 +123,7 @@ Rf = 15K *2=30KΩ
 
 
 
-<img width="1043" height="1280" alt="image" src="https://github.com/user-attachments/assets/f31c83ce-1842-4e3e-8034-b0af94333abc" />
+<img width="1280" height="703" alt="image" src="https://github.com/user-attachments/assets/60ad774f-9ecc-4623-8bdb-99a1494aa491" />
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
