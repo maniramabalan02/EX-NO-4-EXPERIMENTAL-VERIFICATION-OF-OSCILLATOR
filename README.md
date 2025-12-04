@@ -58,11 +58,11 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ---
 ## TABULATION/OBSERVATION
 
-![WhatsApp Image 2025-11-30 at 21 58 41_8c32f7f5](https://github.com/user-attachments/assets/50e437fa-551d-42f0-b473-dab1315750e1)
+![WhatsApp Image 2025-12-04 at 2 51 07 PM](https://github.com/user-attachments/assets/2ca77a9e-9672-4443-9872-2c7ca7ec505e)
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-11-30 at 21 59 10_8b231cff](https://github.com/user-attachments/assets/3f5c1ff5-8b8a-47b4-a6ec-f3f702677352)
+![WhatsApp Image 2025-12-04 at 2 52 05 PM](https://github.com/user-attachments/assets/df3572be-becf-4221-9e45-b509ce507ea0)
 
 
 ---
@@ -86,7 +86,7 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## CIRCUIT DIAGRAM
 WIEN BRIDGE OSCILLATOR
-![WhatsApp Image 2025-12-04 at 1 15 52 PM](https://github.com/user-attachments/assets/9fb11c25-c58a-43aa-9252-a00f1f9545b4)
+![WhatsApp Image 2025-12-04 at 2 52 27 PM](https://github.com/user-attachments/assets/2bdbda0f-09e2-4259-8a27-61d0d4a27525)
 
 
 
@@ -123,12 +123,11 @@ Rf = 15K *2=30KΩ
 
 
 
-![WhatsApp Image 2025-11-30 at 21 59 53_78b82dab](https://github.com/user-attachments/assets/e7ec2bf0-ee19-4830-99dd-4bdb4e1ef63f)
+<img width="1043" height="1280" alt="image" src="https://github.com/user-attachments/assets/f31c83ce-1842-4e3e-8034-b0af94333abc" />
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-
-![WhatsApp Image 2025-11-30 at 22 00 21_bad32221](https://github.com/user-attachments/assets/423913d8-0646-441f-84cb-c91c5e77aa92)
+<img width="1043" height="1280" alt="image" src="https://github.com/user-attachments/assets/6898dfd4-c0fd-4495-ad0a-d2eb6a5cb414" />
 
 ---
 ## RESULT:
